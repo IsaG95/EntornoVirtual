@@ -22,7 +22,6 @@ En este caso utilizamos la base de datos *PostgreSql*.
 d. Autenticación y Autorización
 Se utiliza mecanismos de autenticación (por ejemplo, JWT) para asegurar que solo usuarios autorizados puedan acceder a ciertos servicios.
 
------ En proceso ------
 
 *****Desarrollo de la Inteligencia Artificial con TensorFlow****
 
